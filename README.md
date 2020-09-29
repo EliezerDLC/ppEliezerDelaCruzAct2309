@@ -18,4 +18,8 @@
           <img src="img/logou.png" width="200" height="100">
       <td width="25%">
          <img src="img/logoe.jpg" width="200" height="150">
+<<<<<<< HEAD
     </table>
+=======
+    </table>
+>>>>>>> b68ac30ba8b0f3237367f2834809a9911b533cea
